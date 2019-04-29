@@ -1,0 +1,9 @@
+1. baseline - 0.230
+2. p1a - 0.185
+
+4. bl+mt+bn - 0.218
+6. bl+dropout+bn - 0.220
+7. bl+wd+bn - 0.223
+
+3. bl+bn - 0.223
+5. bl+rnn+bn - 0.215
